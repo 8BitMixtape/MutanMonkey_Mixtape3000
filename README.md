@@ -1,5 +1,7 @@
 # MixtapeNEO-3000
-It's not really new... but finally fully working wiht KiCAD and svg2Shenzhen
+It's not really new... but finally fully working wiht KiCAD and svg2Shenzhen.
+This is for the Workshop in Barcelona:
+http://wiki.8bitmixtape.cc/#/1_10-MutanMonkey-BCN
 
 ![](https://github.com/8BitMixtape/MutanMonkey_Mixtape3000/raw/master/photos/3d_mixtape_MutanMonkey.png)
 

@@ -1,9 +1,9 @@
 (kicad_pcb (version 4) (host pcbnew 4.0.7-e0-6372~58~ubuntu16.04.1)
 
   (general
-    (links 111)
-    (no_connects 14)
-    (area 0 0 0 0)
+    (links 103)
+    (no_connects 6)
+    (area 92.71 54.102 202.692001 136.398001)
     (thickness 1.6)
     (drawings 0)
     (tracks 473)
@@ -173,6 +173,15 @@
     (add_net Sound_OUT)
     (add_net Sync_OUT)
     (add_net VCC)
+  )
+
+  (net_class thinSiech ""
+    (clearance 0.2)
+    (trace_width 0.3)
+    (via_dia 0.6)
+    (via_drill 0.4)
+    (uvia_dia 0.3)
+    (uvia_drill 0.1)
   )
 
   (module Resistors_SMD:R_0612 (layer B.Cu) (tedit 58E0A804) (tstamp 5C822288)

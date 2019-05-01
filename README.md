@@ -6,7 +6,7 @@ http://wiki.8bitmixtape.cc/#/1_10-MutanMonkey-BCN
 
 ## Fully assembled version
 
-![](https://github.com/8BitMixtape/MutanMonkey_Mixtape3000/raw/master/photos/MutanMonkey_specialEdition_space.png)
+![](https://github.com/8BitMixtape/MutanMonkey_Mixtape3000/raw/master/photos/MutanMonkey_specialEdition.jpg)
 
 ## KiCAD PCB and 3d View
 

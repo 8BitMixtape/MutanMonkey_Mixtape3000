@@ -8,6 +8,9 @@ http://wiki.8bitmixtape.cc/#/1_10-MutanMonkey-BCN
 
 ![](https://github.com/8BitMixtape/MutanMonkey_Mixtape3000/raw/master/photos/MutanMonkey_specialEdition.jpg)
 
+Now also available in the 8Bit Mixtape Shop:
+http://shop.8bitmixtape.cc/product/mutan-monkey-limited-edition-8bit-mixtape-neo-premade/
+
 ## KiCAD PCB and 3d View
 
 ![](https://github.com/8BitMixtape/MutanMonkey_Mixtape3000/raw/master/photos/3d_mixtape_MutanMonkey.png)
